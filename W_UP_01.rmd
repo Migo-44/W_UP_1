@@ -79,3 +79,7 @@ We conclude that the skill position players can do more pushups on average than 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+We wanted to see if there was a difference in the amount of pushups a player can do in 2 minutes based on if they played in a line or skill position.
+We got the data from a college football team in Georgetown.
+We conclude that skill players can do more pushups in 2 minutes than line players.
+
